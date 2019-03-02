@@ -1,1 +1,1 @@
-# gif-search
+# git-search
